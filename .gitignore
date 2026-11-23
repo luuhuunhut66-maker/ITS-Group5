@@ -1,0 +1,16 @@
+# Môi trường ảo Python
+.venv/
+venv/
+env/
+ENV/
+
+# Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code cá nhân
+.vscode/
+
+# Snapshot tạm nếu có
+output_figures/webcam_snapshot_*.jpg
