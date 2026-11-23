@@ -14,3 +14,9 @@ __pycache__/
 
 # Snapshot tạm nếu có
 output_figures/webcam_snapshot_*.jpg
+
+# Các file script chạy nhanh & tài liệu nội bộ cá nhân
+CHAY_DEMO_WEBCAM.bat
+XUAT_HINH_MINH_HOA.bat
+CHUONG_2_TRICH_DAN_VA_HINH_MINH_HOA.md
+PLAYBOOK_HUONG_DAN.md
