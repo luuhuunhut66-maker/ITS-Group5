@@ -1,0 +1,7 @@
+﻿Thời gian,Kịch bản,Danh tính thật,Kết quả nhận diện,Đánh giá,Độ tương đồng,Ngưỡng,Thời gian xử lý (ms),Ghi chú
+2026-11-23T22:07:59+07:00,TC01,Lưu Hữu Nhựt,Lưu Hữu Nhựt,Đúng,0.759,0.363,34.54,
+2026-11-23T22:08:05+07:00,TC02,Lưu Hữu Nhựt,Lưu Hữu Nhựt,Đúng,0.705,0.363,26.32,
+2026-11-23T22:08:26+07:00,TC03,Lưu Hữu Nhựt,Lưu Hữu Nhựt,Đúng,0.762,0.363,30.57,
+2026-11-23T22:08:30+07:00,TC04,Lưu Hữu Nhựt,Lưu Hữu Nhựt,Đúng,0.804,0.363,31.63,
+2026-11-23T22:08:39+07:00,TC05,Lưu Hữu Nhựt,Lưu Hữu Nhựt,Đúng,0.683,0.363,27.25,
+2026-11-23T22:08:42+07:00,TC06,Chưa đăng ký,Lưu Hữu Nhựt,Nhận nhầm,0.740,0.363,26.80,

@@ -1,0 +1,7 @@
+﻿Mã kịch bản,Tình huống,Số lần thử,Đúng,Nhận nhầm,Không nhận diện,Thời gian trung bình (ms)
+TC01,"Người đã đăng ký, nhìn thẳng và đủ sáng",1,1,0,0,34.54
+TC02,"Người đã đăng ký, nghiêng mặt",1,1,0,0,26.32
+TC03,"Người đã đăng ký, ánh sáng yếu",1,1,0,0,30.57
+TC04,"Người đã đăng ký, thay đổi khoảng cách",1,1,0,0,31.63
+TC05,"Người đã đăng ký, đeo kính hoặc che một phần mặt",1,1,0,0,27.25
+TC06,Người chưa đăng ký,1,0,1,0,26.8
